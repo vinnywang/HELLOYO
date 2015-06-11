@@ -1,2 +1,4 @@
 # HELLOYO
-Hey Yall
+Hey Ya
+
+commit practice #1
